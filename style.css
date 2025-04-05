@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position: relative;
+}
+
+body{
+    background-color: #60B5FF;
+    position: relative;
+}
+img{
+    height: 21px;
+    margin-right:10px ;
+    margin-left: -10px;
+}
+
+h1{
+    font-size: 15vw;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px 20px;
+    margin: 10px;
+    color: #FF9149;
+    font-weight: 1000;
+    text-shadow: 10px 6px #FFECDB;
+    background-color: #AFDDFF ;
+    border-radius: 600px;
+    
+}  
+
+
+h2{
+    font-size: 30px;
+    margin: 20px;  
+    font-family: "Bungee Tint";
+}
+
+ul li {
+    font-family: Winky Sans;
+    font-size: 20px;
+    text-decoration: bold;
+    font-weight: 500;
+    margin-left: 10px;
+    
+}
+
+.Footer{
+    text-align: center;
+    position: relative;
+    top: 92vh;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
